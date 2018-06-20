@@ -1,0 +1,7 @@
+C:\Users\mkora\OneDrive\Masaüstü\Artan Azalan Yıldız\ArtanAzalanYıldız\ArtanAzalanYıldız\bin\Debug\ArtanAzalanYıldız.exe.config
+C:\Users\mkora\OneDrive\Masaüstü\Artan Azalan Yıldız\ArtanAzalanYıldız\ArtanAzalanYıldız\bin\Debug\ArtanAzalanYıldız.exe
+C:\Users\mkora\OneDrive\Masaüstü\Artan Azalan Yıldız\ArtanAzalanYıldız\ArtanAzalanYıldız\bin\Debug\ArtanAzalanYıldız.pdb
+C:\Users\mkora\OneDrive\Masaüstü\Artan Azalan Yıldız\ArtanAzalanYıldız\ArtanAzalanYıldız\obj\Debug\ArtanAzalanYıldız.csprojResolveAssemblyReference.cache
+C:\Users\mkora\OneDrive\Masaüstü\Artan Azalan Yıldız\ArtanAzalanYıldız\ArtanAzalanYıldız\obj\Debug\ArtanAzalanYıldız.csproj.CoreCompileInputs.cache
+C:\Users\mkora\OneDrive\Masaüstü\Artan Azalan Yıldız\ArtanAzalanYıldız\ArtanAzalanYıldız\obj\Debug\ArtanAzalanYıldız.exe
+C:\Users\mkora\OneDrive\Masaüstü\Artan Azalan Yıldız\ArtanAzalanYıldız\ArtanAzalanYıldız\obj\Debug\ArtanAzalanYıldız.pdb
